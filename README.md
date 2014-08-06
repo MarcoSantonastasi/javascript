@@ -1,6 +1,6 @@
-# Airbnb JavaScript Style Guide() {
+# Fullstack Academy's JavaScript Style Guide() {
 
-*A mostly reasonable approach to JavaScript*
+A mostly reasonable approach to JavaScript, *Adapted from AirBnB's popular JavaScript style guide*.
 
 
 ## Table of Contents
