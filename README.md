@@ -715,7 +715,7 @@ A mostly reasonable approach to JavaScript, *Adapted from AirBnB's popular JavaS
 
       return this;
     }
-  ```
+    ```
 
 **[⬆ back to top](#table-of-contents)**
 
